@@ -1,4 +1,5 @@
 ﻿// Author Lalitha Viswanathan
+// Affiliation: MAVERIC / VABHS
 // MAVERIC DB Interface Class
 using System;
 using System.Collections.Generic;
